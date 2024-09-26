@@ -3,18 +3,18 @@
 int main() {
     int a , i , rs , j;
     
-      int nombre , chiffre ;
+      int nbr , c ;
       
       printf("entrer un nombre : ");
-      scanf("%d",&nombre);
+      scanf("%d",&nbr);
       
       do {
-        chiffre = nombre%10 ;
-        printf("%d",chiffre);
-        nombre = nombre / 10;
+        c = nbr%10 ;
+        printf("%d",c);
+        nbr = nbr / 10;
           
           
-      }while(nombre>0);
+      }while(nbr>0);
          
     
 
