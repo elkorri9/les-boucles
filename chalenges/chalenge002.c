@@ -12,7 +12,7 @@ int main() {
        rs = i * rs ;
        
    }
-   printf("la factorielle d'un nombre que vous saisir : %d =%d",a,rs);
+   printf("la factorielle d'un nombre que vous saisir : %d !=%d",a,rs);
 
     return 0;
 }
