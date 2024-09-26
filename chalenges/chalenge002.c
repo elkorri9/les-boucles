@@ -2,7 +2,7 @@
 
 int main() {
     int a , i , rs =1;
-    int b ;
+    
    
    printf("saisir un nombre : ");
    scanf("%d",&a);
