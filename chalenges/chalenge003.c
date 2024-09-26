@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a , i , rs =1;
+    int a , i , rs ;
     int b ;
    
    printf("saisir un nombre : ");
